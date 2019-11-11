@@ -4,6 +4,7 @@ This is a project I worked on for my Udacity Deep Learning Nanodegree. We were a
 ## Getting Started
 
 ## Installation
+To install, you can clone the repo using https://github.com/jzheng958/dog-breed-classifier.git. 
 
 ## Methods Used
 - Convolutional Neural Network
